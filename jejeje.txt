@@ -1,8 +1,5 @@
 awdadsadad
-<<<<<<< HEAD
 hola
 
-=======
 modifico todo para romper los huevos
->>>>>>> de35a0450e4d57c8651e2513016542ef97ba8833
-ffffjdjdnjdnjdnjndjndjdndjdnjnjjdjd
+ffffjdjdnjdnjdnjndjndjdndjdnjnjjdjdt 
